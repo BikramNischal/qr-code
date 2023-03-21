@@ -1,0 +1,1 @@
+Frontend QR code project developed using the designe from frontend mentor.
