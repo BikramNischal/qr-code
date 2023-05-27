@@ -28,5 +28,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@PsychicGeek](https://www.frontendmentor.io/profile/PsychicGeek)
+- Frontend Mentor - [@BikramNischal](https://www.frontendmentor.io/profile/PsychicGeek)
 
